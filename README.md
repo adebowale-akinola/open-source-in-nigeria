@@ -10,7 +10,7 @@ The information we hope to gather from this survey includes:
     • Regional and ethnic distributions of OSS contributors.  
     • The relationship between age, years of experience, and OSS contribution.  
 
-Rest assured, your participation is anonymous and the information collected will be strictly confidential and only used for academic purposes.
+Rest assured, your participation is anonymous and the information collected will be strictly confidential and only used for academic purpose.
 
 Please follow the link to the survey form: https://forms.gle/NtSzZ5gNBb9LzWGCA
 
